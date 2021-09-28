@@ -1,0 +1,45 @@
+-----------------
+| RailNetwork NZ |
+-----------------
+
+Train Network: Southern Express
+
+Departure city: Christchurch
+
+Arrival city: Dunedin
+
+Date of travel: 2 January 2022
+
+
+Ticket Details: 
+
+_______________
+
+
+
+Passenger 1: 
+
+===========
+
+
+First Name: Nivedita
+
+Last Name: Kulkarni
+
+Age: 46
+
+Gender: Female
+
+Citizenship: India
+
+Email ID: niv@email.com
+
+Phone Number: 783839
+
+---------------------------------------------------------------
+
+================= TOTAL TICKET COST ================= 
+Total number of tickets booked: 1
+Total Sum Cost: $ 395/-
+
+Have a safe journey! :)

@@ -1,0 +1,13 @@
+.......................... Passenger Medical Information ..........................
+First Name: Nivedita
+
+Last Name: Kulkarni
+
+------------ Medical Details ----------
+Fully Vaccinated? : yes
+Managed Isolation Facility? : yes
+Ever tested COVID positive? : no
+--------------------------------------
+
+________________________________________________________________
+

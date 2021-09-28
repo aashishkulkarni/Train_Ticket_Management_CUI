@@ -1,0 +1,17 @@
+Welcome to RailNetwork NZ! 
+--------------------------- 
+
+-> We ensure you travel safely across New Zealand in luxury trains. 
+
+-> Please note that you can only travel from cities in the selected train express only.
+   
+-> You cannot book a ticket to go from a city mentioned in Northern Express to a city mentioned in Southern Express or vice versa.
+
+-> NOTE: You cannot book a ticket to travel from North Island to South Island or vice versa. 
+  (Eg. passengers cannot book ticket from Auckland to Queenstown or Napier to Nelson etc.)
+
+We have 2 train networks-
+ 
+Northern Express: Auckland, Wellington, Tauranga, Hamilton, Napier, Whangerai 
+Southern Express: Christchurch, Queenstown, Dunedin, Nelson, Invercargill 
+
